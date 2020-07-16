@@ -1,0 +1,5 @@
+CSC8002, Advanced Programming, 20
+CSC8004, Networks and Web, 10
+CSC8001, Java Programming, 20
+CSC8005, Software Engineering and Group Project, 80
+CSC8099, Thesis, 60
